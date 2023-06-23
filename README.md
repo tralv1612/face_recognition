@@ -8,4 +8,5 @@ Perform face verification and face recognition with these encodings
 
 Acknowledgments:
 https://www.coursera.org/learn/convolutional-neural-networks
+
 https://www.deeplearning.ai/program/deep-learning-specialization/
